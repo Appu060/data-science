@@ -1,0 +1,25 @@
+# Python virtual environment
+tf_env/
+venv/
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# MacOS / Windows system files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Environment / dependency files (optional)
+*.env
+*.env.* 
